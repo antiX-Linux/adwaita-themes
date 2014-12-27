@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Adwaita Elements - TESTING
+Encoding=UTF-8
+GtkTheme=Adwaita Elements
+MetacityTheme=Adwaita Elements
+IconTheme=gnome
+CursorTheme=Adwaita
+CursorSize=24
+

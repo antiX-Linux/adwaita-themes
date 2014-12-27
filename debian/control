@@ -1,0 +1,12 @@
+Source: adwaita-themes
+Section: system
+Priority: optional
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: adwaita-themes
+Architecture: all
+Depends: gtk2-engines-pixbuf, gtk2-engines-murrine
+Description: adwaita adwaita-X-light GTK2/3 themes for antiX. 

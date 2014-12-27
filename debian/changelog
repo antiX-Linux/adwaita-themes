@@ -1,0 +1,20 @@
+adwaita-themes (0.0.3) debian; urgency=low
+
+  * Fixes installation bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 03 November 2013 11:10:00 +0200
+
+
+adwaita-themes (0.0.2) debian; urgency=low
+
+  * Packaged using dpkg-buildpackage.
+  * Packaged withxz compression.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 18 Oct 2013 20:10:00 +0200
+
+adwaita-themes (0.0.1) debian; urgency=low
+
+  * Packaged for antiX
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 May 2013 12:10:00 +0200
+
